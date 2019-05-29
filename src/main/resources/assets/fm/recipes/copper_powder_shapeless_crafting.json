@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+        "ingredients": [
+            {
+                "item": "fm:copper_ore_block"
+            }
+        ],
+        "result": {
+            "item": "fm:copper_powder",
+            "count": 1
+        }
+}

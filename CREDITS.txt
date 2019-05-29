@@ -1,0 +1,2 @@
+This mod was made by Ben Podrazhansky.
+Thank you to Minecraft Forge for making the template and to Loremaster for a stellar tutorial on minecraft modding.

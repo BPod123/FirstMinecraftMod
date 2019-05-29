@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RRR",
+        " W ",
+        " W "
+    ],
+    
+    "key": {
+        "R": {
+            "item": "fm:ruby"
+        },
+        "W": {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result": {
+     "item": "fm:ruby_pickaxe",
+     "count": 1  
+    } 
+}

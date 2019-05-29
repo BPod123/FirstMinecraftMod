@@ -1,0 +1,40 @@
+// Items
+item.ruby.name=Ruby
+item.bencoin.name=Ben Coin
+item.ruby_ingot.name=Ruby Ingot
+item.obsidian_ingot.name=Obsidian Ingot
+item.copper_ingot.name=Copper Ingot
+item.copper_powder.name=Copper Powder
+
+
+// Blocks
+tile.ruby_block.name=Block of Ruby
+tile.copper_ore_block.name=Copper Ore
+tile.copper_block.name=Block of Copper
+tile.improved_jack_o_lantern.name=Reinforced Jack o'Lantern
+
+// Tools
+item.ruby_sword.name=Ruby Sword
+item.ruby_spade.name= Ruby Shovel
+item.ruby_axe.name=Ruby Axe
+item.ruby_pickaxe.name=Ruby Pickaxe
+
+// Armor
+   
+    // Ruby
+item.ruby_chestplate.name = Ruby Chestplate
+item.ruby_leggings.name = Ruby Leggings
+item.ruby_helment.name = Ruby Helmet
+item.ruby_boots.name = Ruby Boots
+
+    // Stained Diamond
+item.stained_diamond_chestplate.name = Stained Diamond Chestplate
+item.stained_diamond_leggings.name = Stained Diamond Leggings
+item.stained_diamond_helmet.name = Stained Diamond Helmet
+item.stained_diamond_boots.name = Stained Diamond Boots
+
+    // Heavily Stained Diamond
+item.heavily_stained_diamond_chestplate.name = Heavily Stained Diamond Chestplate
+item.heavily_stained_diamond_leggings.name = Heavily Stained Diamond Leggings
+item.heavily_stained_diamond_helmet.name = Heavily Stained Diamond Helmet
+item.heavily_stained_diamond_boots.name = Heavily Stained Diamond Boots

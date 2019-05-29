@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "III",
+        "IPI",
+        "III"
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:iron_nugget"
+        },
+        "P": {
+            "item": "minecraft:lit_pumpkin"
+        }
+    },
+    "result": {
+        "item": "fm:improved_jack_o_lantern",
+        "count": 1
+    }
+}
